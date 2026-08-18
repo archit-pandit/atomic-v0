@@ -219,3 +219,4 @@ __marimo__/
 openwebtext/output_train.txt
 openwebtext/output_valid.txt
 openwebtext/vocab.txt
+*.pkl

@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+openwebtext/output_train.txt
+openwebtext/output_valid.txt
+openwebtext/vocab.txt
